@@ -10,17 +10,12 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ishmam-br10)](https://git.io/streak-stats)
 
 ### Connect with me !
-<a href="twitter.com/ishmam_rafi" rel="nofollow">
+<a href="https://twitter.com/ishmam_rafi" rel="nofollow">
 <img align="left" alt="ishmam_rafi" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" style="max-width: 100%;">
 </a>
 <a href="https://www.hackerrank.com/ishmambinrofi301" rel="nofollow">
   <img align="left" alt="Ishmam HackerRank" width="25px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/hackerrank.svg" style="max-width: 100%;">
 </a>
-<!-- <a href="https://www.facebook.com/arif.khan.shubro/">
-  <img align="left" alt="Arif Facebook" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/facebook.svg" style="max-width: 100%;">
-</a> -->
 <a href="https://www.linkedin.com/in/ishmam-bin-rofi-a18758243/" rel="nofollow">
   <img align="left" alt="Ishmam Bin Rofi" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" style="max-width: 100%;">
 </a>
-<!-- <a href="" rel="nofollow">
-  <img align="left" alt="Arif Medium" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" style="max-width: 100%;"> -->

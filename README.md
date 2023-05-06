@@ -1,7 +1,7 @@
 ### Hi there !
 - I am Ishmam Bin Rofi ! 
 - I am currently an undergrad student of Computer Science and Engineering at [BRAC University](bracu.ac.bd)
-- Find me on my [LinkedIn!](www.linkedin.com/in/ishmam-bin-rofi-a18758243/) 
+- Find me on my [LinkedIn](www.linkedin.com/in/ishmam-bin-rofi-a18758243/)!
 
 ### My Github stats:
 ![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=ishmam-br10&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])

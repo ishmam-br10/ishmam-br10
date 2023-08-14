@@ -20,6 +20,7 @@
 <!-- Github Stats -->
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
+
 ![Ishmam's github stats](https://github-readme-stats.vercel.app/api?username=ishmam-br10&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishmam-br10&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -45,6 +46,6 @@
 </a>
 
 <div align="center">
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-br10&label=Profile%20views&color=0e75b6&style=flat" alt="SabidMahmud" align="left"/></span>
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-br10&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-br10" align="left"/></span>
 <img widht="100%" src="./photos/wave.svg"/ alt="wave"/>
 </div>

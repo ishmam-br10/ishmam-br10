@@ -31,7 +31,9 @@
 
 
 <!-- Connect with me -->
-
+<div align="center">
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-br10&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-br10" align="left"/></span>
+</div>
 <h2>
     Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 </h2>  
@@ -45,7 +47,4 @@
   <img align="left" alt="Ishmam Bin Rofi" width="25px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" style="max-width: 100%;">
 </a>
 
-<div align="center">
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=ishmam-br10&label=Profile%20views&color=0e75b6&style=flat" alt="ishmam-br10" align="left"/></span>
-<img widht="100%" src="./photos/wave.svg"/ alt="wave"/>
-</div>
+

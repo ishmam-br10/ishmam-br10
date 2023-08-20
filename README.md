@@ -1,8 +1,3 @@
-<div align="center">
- 
-<img width="100%" src="./photos/header.svg" alt="cover" />
-</div>
-
 
 ### Hi there !
 - I am Ishmam Bin Rofi ! 
@@ -13,9 +8,16 @@
 - Python
 - Research
 - Machine Learning
-- Tensor FLow
-- Data Processing
+
+### Experiences
+- Python
+- Java
+- C
 - LaTeX
+- Machine Learning
+- Overleaf
+- Deep Learning
+- Data Processing
 
 <!-- Github Stats -->
 

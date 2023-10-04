@@ -12,11 +12,10 @@
 ### Experiences
 - Python
 - Java
-- C
+- Keras
 - LaTeX
 - Machine Learning
 - Overleaf
-- Deep Learning
 - Data Processing
 
 <!-- Github Stats -->

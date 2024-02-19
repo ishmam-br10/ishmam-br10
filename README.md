@@ -6,17 +6,20 @@
 <!--- Interests -->
 ### Interests
 - Python
+- Human Computer Interaction (HCI)
 - Research
 - Machine Learning
 
 ### Experiences
 - Python
 - Java
-- Keras
 - LaTeX
+- Thematic Analysis
 - Machine Learning
 - Overleaf
 - Data Processing
+- Keras
+
 
 <!-- Github Stats -->
 

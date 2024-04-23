@@ -42,10 +42,8 @@
 ### Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 - [Twitter](https://twitter.com/ishmam_rafi)
-- [HackerRank](https://www.hackerrank.com/ishmambinrofi301)
 - [LinkedIn](https://www.linkedin.com/in/ishmam-bin-rofi-a18758243/)
 - [Google Scholar](https://scholar.google.com/citations?user=IecP5SgAAAAJ&hl=en)
-- [ResearchGate](https://www.researchgate.net/profile/Ishmam-Rofi)
 
 
 

@@ -7,18 +7,19 @@
 ### Interests
 - Python
 - Human Computer Interaction (HCI)
-- Research
+- Usable Privacy
 - Machine Learning
+- Linux
 
 ### Experiences
 - Python
 - Java
 - LaTeX
-- Thematic Analysis
+- Qualitative Methods
 - Machine Learning
-- Overleaf
 - Data Processing
-- Keras
+- Linux
+- Usable Privacy and Security
 
 
 <!-- Github Stats -->

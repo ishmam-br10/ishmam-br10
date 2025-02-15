@@ -1,5 +1,7 @@
 
 ### Hi there !
+![image](https://github.com/user-attachments/assets/4bef8f65-4d35-425c-9fd7-4a49a1ee6349)
+
 - I am Ishmam Bin Rofi ! 
 - I am currently an undergrad student of Computer Science and Engineering at BRAC University.
 

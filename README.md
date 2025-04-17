@@ -8,7 +8,7 @@
 - I am currently an undergrad student of Computer Science and Engineering at BRAC University.
 
 <!--- Interests -->
-### Interests
+<!--### Interests
 - Python
 - Human Computer Interaction (HCI)
 - Usable Privacy
@@ -25,7 +25,7 @@
 - Linux
 - Usable Privacy and Security
 
-
+-->
 <!-- Github Stats -->
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px"> </h2>
@@ -45,9 +45,10 @@
 
 
 ### Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
-
+<!--
 - [Twitter](https://twitter.com/ishmam_rafi)
 - [LinkedIn](https://www.linkedin.com/in/ishmam-bin-rofi-a18758243/)
+-->
 - [Google Scholar](https://scholar.google.com/citations?user=IecP5SgAAAAJ&hl=en)
 
 

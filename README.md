@@ -1,8 +1,8 @@
 
 ### Hi there !
+![cat-flash](https://github.com/user-attachments/assets/22999dca-77f0-44e3-8ebb-d28897dfde34)
 
-
-![hello](https://github.com/user-attachments/assets/ca748488-713c-463b-9bcc-a644eef376f5)
+<!---[hello](https://github.com/user-attachments/assets/ca748488-713c-463b-9bcc-a644eef376f5)-->
 
 - I am Ishmam Bin Rofi !
 - PhD student at Rochester Institute of Technology.
@@ -52,6 +52,6 @@
 -->
 - [Google Scholar](https://scholar.google.com/citations?user=IecP5SgAAAAJ&hl=en)
 
-![cat-flash](https://github.com/user-attachments/assets/22999dca-77f0-44e3-8ebb-d28897dfde34)
+
 
 

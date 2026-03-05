@@ -5,8 +5,7 @@
 <!---[hello](https://github.com/user-attachments/assets/ca748488-713c-463b-9bcc-a644eef376f5)-->
 
 - I am Ishmam Bin Rofi !
-- PhD student at Rochester Institute of Technology.
-- Completed Computer Science Undergrad from BRAC University.
+
 
 <!--- Interests -->
 <!--### Interests
